@@ -1,69 +1,109 @@
 {
-    "collectionName": "Must-Read Computer Books",
-    "publisher": "Tech Publications",
-    "yearPublished": 2025,
-    "location": "Digital Library",
-    "available": true,
-    "books": [
-      {
-        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-        "author": "Robert C. Martin",
-        "pages": 464,
-        "topics": [
-          "Software Development",
-          "Code Quality",
-          "Best Practices"
-        ]
-      },
-      {
-        "title": "The Pragmatic Programmer",
-        "author": "Andrew Hunt, David Thomas",
-        "pages": 352,
-        "topics": [
-          "Programming Techniques",
-          "Career Growth",
-          "Software Engineering"
-        ]
-      },
-      {
-        "title": "Designing Data-Intensive Applications",
-        "author": "Martin Kleppmann",
-        "pages": 600,
-        "topics": [
-          "Distributed Systems",
-          "Database Design",
-          "Scalability"
-        ]
-      },
-      {
-        "title": "Introduction to Algorithms",
-        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
-        "pages": 1312,
-        "topics": [
-          "Algorithms",
-          "Computer Science",
-          "Problem Solving"
-        ]
-      },
-      {
-        "title": "Structure and Interpretation of Computer Programs (SICP)",
-        "author": "Harold Abelson, Gerald Jay Sussman",
-        "pages": 657,
-        "topics": [
-          "Functional Programming",
-          "Lisp",
-          "Computer Science Fundamentals"
-        ]
-      },
-      {
-        "title": "Artificial Intelligence: A Modern Approach",
-        "author": "Stuart Russell, Peter Norvig",
-        "pages": 1136,
-        "topics": [
-          "AI",
-          "Machine Learning",
-          "Problem Solving"
-        ]
-      }
-    ]
-  }
+  "collectionName": "Must-Read Computer Books",
+  "publisher": "Tech Publications",
+  "yearPublished": 2025,
+  "location": "Digital Library",
+  "available": true,
+  "books": [
+    {
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "pages": 960,
+      "topics": [
+        "Software Development",
+        "Programming Practices",
+        "Code Optimization"
+      ]
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks",
+      "pages": 320,
+      "topics": [
+        "Project Management",
+        "Software Engineering",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "pages": 395,
+      "topics": [
+        "Object-Oriented Design",
+        "Design Patterns",
+        "Software Architecture"
+      ]
+    },
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "pages": 416,
+      "topics": [
+        "Java Programming",
+        "Best Practices",
+        "Code Optimization"
+      ]
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "pages": 464,
+      "topics": [
+        "Software Development",
+        "Code Refactoring",
+        "Design Improvement"
+      ]
+    },
+    {
+      "title": "Programming Pearls",
+      "author": "Jon Bentley",
+      "pages": 256,
+      "topics": [
+        "Programming Techniques",
+        "Algorithm Design",
+        "Problem Solving"
+      ]
+    },
+    {
+      "title": "The C Programming Language",
+      "author": "Brian W. Kernighan, Dennis M. Ritchie",
+      "pages": 274,
+      "topics": [
+        "C Programming",
+        "Programming Fundamentals",
+        "System Programming"
+      ]
+    },
+    {
+      "title": "Operating Systems: Three Easy Pieces",
+      "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+      "pages": 800,
+      "topics": [
+        "Operating Systems",
+        "Concurrency",
+        "Memory Management"
+      ]
+    },
+    {
+      "title": "Computer Networks: A Top-Down Approach",
+      "author": "James F. Kurose, Keith W. Ross",
+      "pages": 880,
+      "topics": [
+        "Computer Networks",
+        "Network Protocols",
+        "Internet Architecture"
+      ]
+    },
+    {
+      "title": "Database Systems: The Complete Book",
+      "author": "Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",
+      "pages": 1104,
+      "topics": [
+        "Database Systems",
+        "SQL",
+        "Data Management"
+      ]
+    }
+  ]
+}
